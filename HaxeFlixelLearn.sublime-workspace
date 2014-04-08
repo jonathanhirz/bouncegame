@@ -1,0 +1,747 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"swit",
+				"switchToPlayState	function"
+			],
+			[
+				"play",
+				"playerTransform"
+			],
+			[
+				"aster",
+				"asteroidSpeed"
+			],
+			[
+				"tran",
+				"translateV"
+			],
+			[
+				"trans",
+				"translateH"
+			],
+			[
+				"player",
+				"playerSpeedHorizontal"
+			],
+			[
+				"space",
+				"spaceGameTexture"
+			],
+			[
+				"Res",
+				"ResetAsteroid"
+			],
+			[
+				"height",
+				"heightLimit"
+			],
+			[
+				"playe",
+				"playerSpeed"
+			],
+			[
+				"pla",
+				"playerSpeed"
+			],
+			[
+				"Debu",
+				"Debug.Log	*(message, context)"
+			],
+			[
+				"res",
+				"ResetBall"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"settingsButton",
+				"settingsButton"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"activa",
+				"activateNotesList"
+			],
+			[
+				"curren",
+				"currentNote"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"onNewN",
+				"onNewNoteCommand"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"body",
+				"body-text"
+			],
+			[
+				"ui-",
+				"ui-btn-inner"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"block",
+				"blocks_panel"
+			],
+			[
+				"date_default",
+				"date_default_timezone_set"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"ali",
+				"vertical-align"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"colo",
+				"Color Picker: Insert Color"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"hax",
+				"Set Syntax: Haxe"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Haxelib: List Installed"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"h",
+				"Haxe: Run build"
+			],
+			[
+				"ha",
+				"Haxe: Run build"
+			],
+			[
+				"haxeli",
+				"Haxelib: Update library"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"aremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"ed",
+				"SFTP: Edit Server…"
+			],
+			[
+				"setup",
+				"SFTP: Setup Server…"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brows",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/BounceState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Player.hx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/ColorPick/ColorPick.py",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/pickAColor.py",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameClass.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/MenuState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Paddle.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Platform.hx",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/_plugins/my-plugin.rb",
+		"/Users/jonathan/Developer/Projects/Unity/UnityShielDefense/Assets/scriptCameraFollow.js",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/SpriteState.hx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Main.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Reg.hx",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/about.md",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/PlayState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/TileMapState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Ball.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameOverState.hx",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/_posts/2014-02-20-everything.md",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HelloWorld (original)/source/PlayState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HelloWorld (original)/source/MenuState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/default/source/GameClass.hx",
+		"/Users/jonathan/Developer/Projects/haxeflixel/default/source/Main.hx",
+		"/Users/jonathan/Developer/Projects/haxeflixel/default/export/mac64/neko/haxe/release.hxml",
+		"/Users/jonathan/Developer/Projects/haxeflixel/default/Project.xml",
+		"/Users/jonathan/Developer/Projects/haxeflixel/default/source/GameClass.hx",
+		"/Users/jonathan/Documents/microcell",
+		"/Users/jonathan/Developer/Projects/macProTrash/README.txt",
+		"/Users/jonathan/Developer/Projects/haxeflixel/Hello World/Hello World.sublime-workspace",
+		"/Users/jonathan/Developer/Projects/haxeflixel/Hello World/Project.xml",
+		"/Users/jonathan/Developer/Projects/Hello World/source/MenuState.hx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Haxe/Support/Haxe.sublime-settings",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Haxe/Support/Comments.HaXe.tmPreferences",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Haxe/Haxe.tmLanguage",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Haxe/Default.tmPreferences",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Dark.sublime-theme",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jonathan/Developer/Projects/DisplayingABitmap/Source/Main.hx",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptAsteroidEmitter.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptCameraFollow.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptOrbitPoint.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptPlayerShield.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptPlayerShip.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptStar.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptStarEmitter.js",
+		"/Applications/Unity/Unity.app/Contents/Resources/ScriptTemplates/80-Javascript-NewBehaviourScript.js.txt",
+		"/Users/jonathan/Games/PSP/s9xTYLmecm/readme.txt",
+		"/Users/jonathan/Desktop/AssistiveTouchCrash",
+		"/Users/jonathan/Downloads/HacknSlashAnnounce.zip",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Temp/Compiled-Alpha-Diffuse.shader",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386565225/jonathanhirz.com/404.html",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386565065/jonathanhirz.com/.htaccess",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386565127/jonathanhirz.com/404.html",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386564116/jonathanhirz.com/files/index.html",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/jonathanhirz.com",
+		"/Users/jonathan/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles/Sapientia/design.css",
+		"/Users/jonathan/new",
+		"/Users/jonathan/.bash_profile",
+		"/Users/jonathan/.irclogs/irc.afternet.org (C9656)/Channels/#ludumdare/201",
+		"/Users/jonathan/.irclogs/irc.afternet.org (C9656)/Channels/#ludumdare/2013-12-08.txt",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptShield.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptAsteroid.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scratchPad.txt",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/ProjectDescription.txt",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386107965/jonathanhirz.com/wp-config.php",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386107555/jonathanhirz.com/wp-config.php",
+		"/Users/jonathan/Developer/jonathanhirz.com/wp.26_43946.2013-12-03_21-48-14/wp.26_43946.2013-12-03_21-48-14",
+		"/Users/jonathan/Downloads/wp.26_43946.2013-12-03_21-48-14",
+		"/Users/jonathan/Developer/jonathanhirz.com/wp.26_43946.2013-12-03_10-18-01/wp.26_43946.2013-12-03_10-18-01",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386103943/jonathanhirz.com/index.html_",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386103905/jonathanhirz.com/index.html_",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386103935/jonathanhirz.com/index.php",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386103728/jonathanhirz.com/php/index.php",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386046756/jonathanhirz.com/index.html",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1386027239/jonathanhirz.com/index.html",
+		"/Users/jonathan/Developer/jonathanhirz.com/index.html",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/jonathan/Developer/jonathanhirz.com/parking-page.html",
+		"/Users/jonathan/Developer/Projects/UnityQuadrobounce2/Assets/scriptPaddles.js",
+		"/Users/jonathan/Developer/Projects/UnityQuadrobounce2/Assets/scriptBall.js",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/User/timestamp.py",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptAsteroid.js",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/NewBehaviourScript.js",
+		"/Users/jonathan/testing",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/CameraFollow.cs",
+		"/Users/jonathan/Developer/Projects/UnityShielDefense/Assets/scriptStarEmmiter.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptStarEmmiter.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptPlayer.js",
+		"/Users/jonathan/Developer/Projects/ProjectDescription.txt",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenLoss.js",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/User/Automatic Backups.sublime-settings",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Automatic Backups/Default (OSX).sublime-keymap",
+		"/Users/jonathan/.sublime/backups/Users/jonathan/Games/PSP/gamesToGet-2013-07-28_19-14-18",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptBlock.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptBullet.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenWin.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenCredits.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenLoad.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenMainMenu.js",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/NewBehaviourScript.js",
+		"/Users/jonathan/Torrent/Modernist Cuisine - The Art and Science of Cooking [Vol 1-6] (HQ)/Modernist Cuisine - The Art and Science of Cooking [Vol 1-6] (HQ).txt",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/JavaScript/Object-key-key-value.sublime-snippet",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jonathan/Downloads/SHARECART1000/WHAT IS THIS.txt",
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptExplosion.js",
+		"/Users/jonathan/Developer/Projects/UnityMoveSomething/Assets/ProjectDescription.txt",
+		"/Users/jonathan/Desktop/CompTIA Certification List.txt",
+		"/Users/jonathan/Downloads/raDial Timer_1.02_20131009205916.txt",
+		"/Users/jonathan/Desktop/CompTIA Certification List",
+		"/Users/jonathan/Dropbox/Public/UnityWBProject1/outputWEB.html",
+		"/Users/jonathan/Downloads/Roon-Export/published/2013-06-08-new-blog/new-blog.markdown",
+		"/Users/jonathan/Developer/Projects/UnityWBProject1/Assets/Scripts/scriptPlayer.js",
+		"/Users/jonathan/Downloads/Roon-Export/published/2013-09-03-radial-timer-released/radial-timer-released.markdown",
+		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/Scripts/bounceCount.js",
+		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/Scripts/addComponent.js",
+		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/testing.js",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Unity3D Snippets and Completes/README.md",
+		"/Users/jonathan/Torrent/NES Emulator and 758 Roms (Kingdom-games by KloWn)/Instructions.txt",
+		"/Users/jonathan/Dropbox/PlainText/moreAwesomeWriting.txt",
+		"/Users/jonathan/Dropbox/PlainText/moreAwesomeWriting",
+		"/Users/jonathan/Dropbox/PlainText/WritingPad.txt",
+		"/Users/jonathan/Dropbox/PlainText/Hello.txt",
+		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/anotherTestScript.js",
+		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/Standard Assets (Mobile)/Scripts/MyNewCScript.cs",
+		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Unity3D/UnityC#.tmLanguage"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var platformTop:Platform = new Platform(FlxG.width/2,10,100,20);\n		add(platformTop);",
+			"		var platformTop:Platform = new Platform(FlxG.width/2,10,100,20);\n		add(platformTop);",
+			"Number",
+			"x",
+			"_player.",
+			"_player",
+			"_platform",
+			"movementvar",
+			"allowto",
+			"label_control",
+			"asteroidTransform",
+			"shipdamagetransform",
+			"uppercase",
+			"@HideInInspector",
+			"numberOfAsteroids",
+			"NumberOfAsteroids",
+			"numberOfAsteroids",
+			"NumberOfAsteroids",
+			"numberOfAsteroids",
+			"NumberOfAsteroids",
+			"numberOfAsteroids",
+			"asteroidSpeed",
+			"playerShip",
+			"MainCamera",
+			"distanceBetween",
+			"gameObject",
+			"transform",
+			"10.0",
+			"CREATED_PATTERN",
+			"int",
+			";\n",
+			"Enemies",
+			"ASTEROIDs",
+			"Asteroid",
+			"asteroid",
+			"Asteroid",
+			"shield",
+			"Ship",
+			"SHIP",
+			"Ship",
+			"SHIP",
+			"Ship",
+			"ship",
+			"you",
+			"200",
+			"int",
+			"x",
+			");\n",
+			"x",
+			"6",
+			"(\"",
+			"paycheck",
+			"<!",
+			"quick",
+			"quicl",
+			"quick",
+			"fast ",
+			"img\nimg",
+			"img",
+			"img\nimg",
+			"img",
+			"img	",
+			"sftp",
+			"hidden",
+			"/>',\n",
+			"ADSencha",
+			"label",
+			"Menlo",
+			".x-list-item-label",
+			"data-tap-toggle=\"false\"",
+			"index",
+			"nationalassessmentcorp",
+			"}",
+			"title",
+			"date",
+			"title",
+			"date",
+			"environmental profes",
+			"inner",
+			">\n",
+			"h1",
+			"&",
+			"& ",
+			"M",
+			"en",
+			"&",
+			"&\n&",
+			"&",
+			"10px",
+			"staff",
+			" .",
+			"drills",
+			"nav-glyphish-example ",
+			"href",
+			"reasons",
+			";\n",
+			"clear:both;",
+			"justify",
+			"logo",
+			"cmd",
+			"left",
+			"path",
+			"new",
+			"video-box",
+			"button",
+			"main",
+			"header",
+			".pem",
+			"$message",
+			"virtualhost",
+			"testing",
+			"content",
+			"nfo",
+			"p",
+			"body",
+			"entry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"menu",
+				"incs/menu.php"
+			],
+			[
+				"qut",
+				"quote.php"
+			],
+			[
+				"repor",
+				"report.php"
+			],
+			[
+				"pha",
+				"phase2.php"
+			],
+			[
+				"phase",
+				"phase1.php"
+			],
+			[
+				"sta",
+				"staff.php"
+			],
+			[
+				"foot",
+				"incs/footblocks.php"
+			],
+			[
+				"head",
+				"incs/header.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"staff",
+				"staff.php"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"quo",
+				"quote_backup.php"
+			],
+			[
+				"men",
+				"incs/menu.php"
+			],
+			[
+				"header",
+				"incs/header.php"
+			],
+			[
+				"lay",
+				"assets/layout.css"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"video",
+				"video.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"jon",
+				"~/Developer/jonathanhirz.com/jekyll/jonathanhirz.blog.sublime-project"
+			],
+			[
+				"",
+				"~/Developer/Projects/HaxeFlixel/default/FlxProject.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
