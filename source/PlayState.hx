@@ -16,6 +16,7 @@ class PlayState extends FlxState
 
 	 public var scoreText:FlxText;
 	 public var score:Int = 0;
+	 public var player:Player;
 
 	override public function create():Void
 	{
@@ -27,14 +28,14 @@ class PlayState extends FlxState
 		// trace() will show up in the console window
 		FlxG.log.redirectTraces = false;
 
-		var player:Player = new Player(FlxG.width/2, FlxG.height/2);
+		player = new Player(FlxG.width/2, FlxG.height/2);
 		add(player);
 
 		// bottom platform
 		var bottomPlatform:BottomPlatform = new BottomPlatform(0,450);
 		add(bottomPlatform);
 
-		var platform:Platform = new Platform(FlxG.width/2 - 50,400,100,20);
+		var platform:Platform = new Platform(FlxG.width/2 - 50,380,100,20);
 		add(platform);
 
 		var platform:Platform = new Platform(40,300,100,20);
@@ -63,6 +64,8 @@ class PlayState extends FlxState
 	override public function update():Void
 	{
 		super.update();
+
+		//FlxG.camera.follow(player,0);
 
 		FlxG.collide();
 	}
