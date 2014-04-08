@@ -45,6 +45,7 @@ class PlayState extends FlxState
 		add(platform);
 
 		scoreText = new FlxText(FlxG.width/2 - 50,20,150,"Score: " + score,18);
+		scoreText.scrollFactor.set(0,0);
 		add(scoreText);
 
 	}
@@ -65,7 +66,9 @@ class PlayState extends FlxState
 	{
 		super.update();
 
-		//FlxG.camera.follow(player,0);
+		FlxG.camera.follow(player,2);
+		FlxG.camera.setBounds(0,-200,640,680,true);
+		FlxG.camera.setPosition(0,0);
 
 		FlxG.collide();
 	}
