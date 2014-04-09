@@ -23,7 +23,7 @@ class Platform extends FlxSprite
 	{
 		if(isTouching(flixel.FlxObject.CEILING))
 		{
-			FlxG.sound.play("assets/sounds/bounce" + Reg.SoundExtension,1,false);
+			FlxG.sound.play("assets/sounds/bounce.wav");
 			x = FlxRandom.intRanged(20,FlxG.width - 120);
 			y = FlxRandom.intRanged(60,FlxG.height - 80);
 			scoreState.score += 1;

@@ -6,6 +6,7 @@ import flixel.FlxState;
 import flixel.text.FlxText;
 import flixel.ui.FlxButton;
 import flixel.util.FlxMath;
+import flixel.FlxCamera;
 
 class PlayState extends FlxState
 {
@@ -66,8 +67,8 @@ class PlayState extends FlxState
 	{
 		super.update();
 
-		FlxG.camera.follow(player,2);
-		FlxG.camera.setBounds(0,-200,640,680,true);
+		FlxG.camera.follow(player,FlxCamera.STYLE_TOPDOWN);
+		FlxG.camera.setBounds(0,-100,640,580,true);
 		FlxG.camera.setPosition(0,0);
 
 		FlxG.collide();
