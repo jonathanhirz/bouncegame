@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"ST",
+				"STYLE_TOPDOWN	Int"
+			],
+			[
+				"foll",
+				"followLerp	Float"
+			],
+			[
+				"fol",
+				"follow(...)	Void"
+			],
+			[
+				"sw",
+				"switchState(...)	Void"
+			],
+			[
 				"swit",
 				"switchToPlayState	function"
 			],
@@ -149,12 +165,39 @@
 			]
 		]
 	},
-	"build_system": "",
+	"buffers":
+	[
+		{
+			"file": "source/MenuState.hx",
+			"settings":
+			{
+				"buffer_size": 1197,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/HaxeFlixelFlashRelease.sublime-build",
 	"command_palette":
 	{
-		"height": 400.0,
+		"height": 169.0,
 		"selected_items":
 		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"h",
+				"Haxe: Run build"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"haxe",
+				"Haxe: Choose Build Target"
+			],
 			[
 				"colo",
 				"Color Picker: Insert Color"
@@ -180,10 +223,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"h",
-				"Haxe: Run build"
-			],
-			[
 				"ha",
 				"Haxe: Run build"
 			],
@@ -204,20 +243,12 @@
 				"Package Control: List Packages"
 			],
 			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
 				"ins",
 				"Package Control: Install Package"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
 			],
 			[
 				"Snippet: ",
@@ -309,25 +340,32 @@
 	},
 	"file_history":
 	[
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/BounceState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/MenuState.hx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/Haxe/HaxeComplete.py",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameOverState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Player.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Main.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/PlayState.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Platform.hx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/HaxeFlixelFlashRelease.sublime-build",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/Project.xml",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Reg.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameClass.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/.gitignore",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/export/flash/haxe/release.hxml",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/BottomPlatform.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/untitled",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/BounceState.hx",
 		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/ColorPick/ColorPick.py",
 		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/pickAColor.py",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameClass.hx",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/MenuState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Paddle.hx",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Platform.hx",
 		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/_plugins/my-plugin.rb",
 		"/Users/jonathan/Developer/Projects/Unity/UnityShielDefense/Assets/scriptCameraFollow.js",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/SpriteState.hx",
 		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Main.hx",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Reg.hx",
 		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/about.md",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/PlayState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/TileMapState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Ball.hx",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameOverState.hx",
 		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/_posts/2014-02-20-everything.md",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HelloWorld (original)/source/PlayState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HelloWorld (original)/source/MenuState.hx",
@@ -429,14 +467,7 @@
 		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/Scripts/addComponent.js",
 		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/testing.js",
 		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Unity3D Snippets and Completes/README.md",
-		"/Users/jonathan/Torrent/NES Emulator and 758 Roms (Kingdom-games by KloWn)/Instructions.txt",
-		"/Users/jonathan/Dropbox/PlainText/moreAwesomeWriting.txt",
-		"/Users/jonathan/Dropbox/PlainText/moreAwesomeWriting",
-		"/Users/jonathan/Dropbox/PlainText/WritingPad.txt",
-		"/Users/jonathan/Dropbox/PlainText/Hello.txt",
-		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/anotherTestScript.js",
-		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/Standard Assets (Mobile)/Scripts/MyNewCScript.cs",
-		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Unity3D/UnityC#.tmLanguage"
+		"/Users/jonathan/Torrent/NES Emulator and 758 Roms (Kingdom-games by KloWn)/Instructions.txt"
 	],
 	"find":
 	{
@@ -454,6 +485,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"cpp",
 			"var platformTop:Platform = new Platform(FlxG.width/2,10,100,20);\n		add(platformTop);",
 			"		var platformTop:Platform = new Platform(FlxG.width/2,10,100,20);\n		add(platformTop);",
 			"Number",
@@ -584,6 +616,48 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/MenuState.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 25.0
@@ -625,8 +699,9 @@
 	},
 	"output.sftp":
 	{
-		"height": 0.0
+		"height": 110.0
 	},
+	"project": "HaxeFlixelLearn.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -713,6 +788,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"jo",
+				"~/Developer/jonathanhirz.com/jekyll/jonathanhirz.blog.sublime-project"
+			],
 			[
 				"jon",
 				"~/Developer/jonathanhirz.com/jekyll/jonathanhirz.blog.sublime-project"

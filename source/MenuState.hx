@@ -23,6 +23,7 @@ class MenuState extends FlxState
 
 		FlxG.camera.bgColor = 0xffacbcd7;
 
+
 		add(new FlxText(30,FlxG.height/2 - 140,640,"bounce game...thing",40));
 		add(new FlxText(40,FlxG.height/2,640,"SPACE to start",20));
 		add(new FlxText(40,FlxG.height/2+30,640,"ARROWS or AD to move",20));
