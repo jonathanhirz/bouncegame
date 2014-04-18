@@ -165,42 +165,47 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "source/MenuState.hx",
-			"settings":
-			{
-				"buffer_size": 1197,
-				"line_ending": "Windows"
-			}
-		}
-	],
 	"build_system": "Packages/User/HaxeFlixelFlashRelease.sublime-build",
 	"command_palette":
 	{
-		"height": 169.0,
+		"height": 400.0,
 		"selected_items":
 		[
 			[
-				"remo",
-				"Package Control: Remove Package"
+				"inst",
+				"Package Control: Install Package"
 			],
 			[
 				"h",
 				"Haxe: Run build"
 			],
 			[
-				"inst",
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
 				"Package Control: Install Package"
 			],
 			[
-				"haxe",
-				"Haxe: Choose Build Target"
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rmove",
+				"Package Control: Remove Package"
 			],
 			[
 				"colo",
 				"Color Picker: Insert Color"
+			],
+			[
+				"haxe",
+				"Haxe: Choose Build Target"
 			],
 			[
 				"remove",
@@ -213,10 +218,6 @@
 			[
 				"insta",
 				"Package Control: Install Package"
-			],
-			[
-				"instal",
-				"Haxelib: List Installed"
 			],
 			[
 				"re",
@@ -243,10 +244,6 @@
 				"Package Control: List Packages"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
 			],
@@ -261,10 +258,6 @@
 			[
 				"packlist",
 				"Package Control: List Packages"
-			],
-			[
-				"in",
-				"Package Control: Install Package"
 			],
 			[
 				"pa",
@@ -340,29 +333,52 @@
 	},
 	"file_history":
 	[
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/public/index.php",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/req/switch.php",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/req/post.php",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/req/function.php",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/req/conf.php",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/req/server.php",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/content/landing.php",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1397784043/jonathanhirz.com/public_html/.htaccess",
+		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/tweetbot-custom-image-service-master/readme.md",
+		"/var/folders/83/_jbg89zs2ds_bpydzd8lzz4m0000gq/T/sublime-sftp-browse-1397750995/jonathanhirz.com/public_html/.htaccess",
+		"/Users/jonathan/Developer/Projects/Unity/jumper/Assets/scriptMovement.js",
+		"/Users/jonathan/Developer/Projects/Unity/jumper/Assets/scriptCleanUp.js",
+		"/Users/jonathan/Downloads/df_osx/readme.txt",
+		"/Users/jonathan/Downloads/df_osx/command line.txt",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Main.hx",
+		"/usr/lib/haxe/lib/flixel/3,2,1/flixel/system/FlxPreloader.hx",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/Project.xml",
+		"/Users/jonathan/CompTIA Certification List.txt",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Spacegray.sublime-package",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/asdf.hx",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/ColorPick/ColorPick.py",
+		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/.gitignore",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/ColorPick/Default (OSX).sublime-keymap",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/MenuState.hx",
 		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/Haxe/HaxeComplete.py",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameOverState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Player.hx",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Main.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/PlayState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Platform.hx",
 		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/HaxeFlixelFlashRelease.sublime-build",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/Project.xml",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Reg.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/GameClass.hx",
-		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/.gitignore",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/export/flash/haxe/release.hxml",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/BottomPlatform.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/untitled",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/BounceState.hx",
-		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/ColorPick/ColorPick.py",
 		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/pickAColor.py",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Paddle.hx",
 		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/_plugins/my-plugin.rb",
 		"/Users/jonathan/Developer/Projects/Unity/UnityShielDefense/Assets/scriptCameraFollow.js",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/SpriteState.hx",
-		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/jonathan/Developer/jonathanhirz.com/jekyll/jonathanHirz.blog/about.md",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/TileMapState.hx",
 		"/Users/jonathan/Developer/Projects/HaxeFlixel/HaxeFlixelLearn/source/Ball.hx",
@@ -444,30 +460,7 @@
 		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Automatic Backups/Default (OSX).sublime-keymap",
 		"/Users/jonathan/.sublime/backups/Users/jonathan/Games/PSP/gamesToGet-2013-07-28_19-14-18",
 		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptBlock.js",
-		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptBullet.js",
-		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenWin.js",
-		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenCredits.js",
-		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenLoad.js",
-		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptScreenMainMenu.js",
-		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/NewBehaviourScript.js",
-		"/Users/jonathan/Torrent/Modernist Cuisine - The Art and Science of Cooking [Vol 1-6] (HQ)/Modernist Cuisine - The Art and Science of Cooking [Vol 1-6] (HQ).txt",
-		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/JavaScript/Object-key-key-value.sublime-snippet",
-		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/jonathan/Downloads/SHARECART1000/WHAT IS THIS.txt",
-		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptExplosion.js",
-		"/Users/jonathan/Developer/Projects/UnityMoveSomething/Assets/ProjectDescription.txt",
-		"/Users/jonathan/Desktop/CompTIA Certification List.txt",
-		"/Users/jonathan/Downloads/raDial Timer_1.02_20131009205916.txt",
-		"/Users/jonathan/Desktop/CompTIA Certification List",
-		"/Users/jonathan/Dropbox/Public/UnityWBProject1/outputWEB.html",
-		"/Users/jonathan/Downloads/Roon-Export/published/2013-06-08-new-blog/new-blog.markdown",
-		"/Users/jonathan/Developer/Projects/UnityWBProject1/Assets/Scripts/scriptPlayer.js",
-		"/Users/jonathan/Downloads/Roon-Export/published/2013-09-03-radial-timer-released/radial-timer-released.markdown",
-		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/Scripts/bounceCount.js",
-		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/Scripts/addComponent.js",
-		"/Users/jonathan/Developer/Projects/NewUnityLearn/Assets/testing.js",
-		"/Users/jonathan/Library/Application Support/Sublime Text 2/Packages/Unity3D Snippets and Completes/README.md",
-		"/Users/jonathan/Torrent/NES Emulator and 758 Roms (Kingdom-games by KloWn)/Instructions.txt"
+		"/Users/jonathan/Developer/Projects/UnityWBProject2/Assets/scriptBullet.js"
 	],
 	"find":
 	{
@@ -485,6 +478,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bytesTotal",
 			"cpp",
 			"var platformTop:Platform = new Platform(FlxG.width/2,10,100,20);\n		add(platformTop);",
 			"		var platformTop:Platform = new Platform(FlxG.width/2,10,100,20);\n		add(platformTop);",
@@ -616,48 +610,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "source/MenuState.hx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"haxe-build-id": 0,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Haxe/Haxe.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 25.0
@@ -701,7 +653,6 @@
 	{
 		"height": 110.0
 	},
-	"project": "HaxeFlixelLearn.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -789,16 +740,20 @@
 		"selected_items":
 		[
 			[
+				"",
+				"~/Developer/Projects/HaxeFlixel/FlxCamera/FlxCamera.sublime-project"
+			],
+			[
+				"qua",
+				"~/Developer/Projects/HaxeFlixel/quadrobounce2/quadrobounce2.sublime-project"
+			],
+			[
 				"jo",
 				"~/Developer/jonathanhirz.com/jekyll/jonathanhirz.blog.sublime-project"
 			],
 			[
 				"jon",
 				"~/Developer/jonathanhirz.com/jekyll/jonathanhirz.blog.sublime-project"
-			],
-			[
-				"",
-				"~/Developer/Projects/HaxeFlixel/default/FlxProject.sublime-workspace"
 			]
 		],
 		"width": 380.0
